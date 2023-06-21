@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40d7511b.css",
+    "main.js": "/static/js/main.a94cdd60.js",
+    "static/js/787.bc7d429a.chunk.js": "/static/js/787.bc7d429a.chunk.js",
+    "static/media/Screenshot 2023-06-13 at 10-03-49 TPI 2023.png": "/static/media/Screenshot 2023-06-13 at 10-03-49 TPI 2023.d11c9382c797c4bb509a.png",
+    "static/media/Screenshot 2023-06-13 at 10-02-27 complete responsive coffee shop website design.png": "/static/media/Screenshot 2023-06-13 at 10-02-27 complete responsive coffee shop website design.d0a98d1979650a2ee618.png",
+    "static/media/Screenshot 2023-06-13 at 10-01-18 Document.png": "/static/media/Screenshot 2023-06-13 at 10-01-18 Document.71c784a502d1cd02251f.png",
+    "static/media/Screenshot 2023-06-13 at 11-32-17 Animail project 01.png": "/static/media/Screenshot 2023-06-13 at 11-32-17 Animail project 01.4206f0e5294474ae07c3.png",
+    "static/media/Screenshot 2023-06-13 at 10-01-59 Eat Healthy Website.png": "/static/media/Screenshot 2023-06-13 at 10-01-59 Eat Healthy Website.a12e1fabc777dbfe818c.png",
+    "static/media/1686378915854.png": "/static/media/1686378915854.e3262e015669bf1138ae.png",
+    "static/media/Screenshot 2023-06-13 at 10-02-53 Card design.png": "/static/media/Screenshot 2023-06-13 at 10-02-53 Card design.50b60f8183566bc03862.png",
+    "static/media/Screenshot_2.png": "/static/media/Screenshot_2.dbc1926399e1e6c7c424.png",
+    "static/media/Screenshot 2023-06-13 at 10-03-27 Bootstrap project 101.png": "/static/media/Screenshot 2023-06-13 at 10-03-27 Bootstrap project 101.98ca8ab6d5bbf29bed8e.png",
+    "static/media/Screenshot 2023-06-13 at 10-04-18 Nimur Rahman Nerob Protfolio website 1.0.1.png": "/static/media/Screenshot 2023-06-13 at 10-04-18 Nimur Rahman Nerob Protfolio website 1.0.1.2574fe63d9d7d69ffad5.png",
+    "static/media/protfilio.jpg": "/static/media/protfilio.a2c8401fa70b50b9a507.jpg",
+    "static/media/react-js-banner.jpg": "/static/media/react-js-banner.d606f91a6102350a319b.jpg",
+    "static/media/Screenshot 2023-06-13 at 10-03-09 Travil site 31.08.2022.png": "/static/media/Screenshot 2023-06-13 at 10-03-09 Travil site 31.08.2022.de2e97f6fa9628cf1ffd.png",
+    "index.html": "/index.html",
+    "main.40d7511b.css.map": "/static/css/main.40d7511b.css.map",
+    "main.a94cdd60.js.map": "/static/js/main.a94cdd60.js.map",
+    "787.bc7d429a.chunk.js.map": "/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d7511b.css",
+    "static/js/main.a94cdd60.js"
+  ]
+}
